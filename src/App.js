@@ -82,4 +82,4 @@ showProduct: function(name){
 
 
   //React.render(<Product/>,document.getElementById("root")); //<p>{this.props.name} - ${this.props.price}</p>
-export default ProductList;
+export default ProductList; //need to check that local git and github are linked
